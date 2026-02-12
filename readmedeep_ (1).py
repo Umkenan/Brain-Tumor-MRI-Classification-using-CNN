@@ -41,7 +41,7 @@ The model achieved high classification accuracy in distinguishing between differ
 - Expanding dataset size
 
 ## Author
-Kenan  
+Salsabeel Ali Alqtyshat
 AI & Robotics Engineering Student  
 Al-Balqa Applied University
 """
